@@ -1,0 +1,6 @@
+[submodule "hc-fitment-admin"]
+	path = hc-fitment-admin
+	url = https://github.com/haochtech/hc-fitment-admin.git
+[submodule "hc-fitment-wx"]
+	path = hc-fitment-wx
+	url = https://github.com/haochtech/hc-fitment-wx.git
